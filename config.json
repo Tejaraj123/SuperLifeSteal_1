@@ -1,0 +1,9 @@
+{
+	"ip":"Jtr125qcMo.aternos.me",
+	"port": 27262,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (botsfds)) (botsfds))",
+	"login-cmd":"/login (botsfds)"
+}
